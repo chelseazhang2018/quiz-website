@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+p {
+	margin: auto;
+	padding: auto;
+	}
+
+h1 {
+	margin: auto;
+	padding: auto;
+	color: blue;
+	text-align: center;
+	}
+.form {
+	margin: auto;
+	padding: auto;
+	background-color: ;
+	opacity: 0.8
+}

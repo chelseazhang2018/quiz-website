@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<quiz random="false" one-page="false" practice-mode="false">
+<title>Capitals</title>
+<category>Geography</category>
+<description>Do you know the capital to some of the Countries in the world?</description>
+
+<question type="matching">
+  <query-list> 
+    <query>Russia</query>
+    <query>United Kingdom</query>
+    <query>People's Republic of China</query>
+    <query>India</query>
+    <query>Argentina</query>
+  </query-list>
+  <answer-list>
+    <answer>Moscow</answer>
+    <answer>London</answer>
+    <answer>Beijing</answer>
+    <answer>New Delhi</answer>
+    <answer>Buenos Aires</answer>
+  </answer-list>
+</question>
+
+<question type="fill-in-blank">
+  <blank-query><pre></pre><blank /><post>is the capital of Canada.</post></blank-query>
+  <answer>Ottawa</answer>
+</question>
+
+<question type="multiple-choice">
+  <query>Which of the following is the captial of Serbia?</query>
+  <option>Kraljevo</option>
+  <option>Valjevo</option>
+  <option answer="answer">Belgrade</option>
+</question>
+
+</quiz>

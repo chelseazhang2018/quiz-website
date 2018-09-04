@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<quiz random="true" one-page="false" practice-mode="true">
+<title>Challenges</title>
+<category></category>
+<description>Some difficult questions</description>
+
+<question type="multi-answer" has-order="false">
+  <query>What is the top 5 popular songs in 2015?</query>
+  <answer-list>
+    <answer>Stressed Out</answer>
+    <answer>Stitches</answer>
+    <answer>Hymn For The Weekend</answer>
+    <answer>What Do You Mean</answer>
+    <answer>Adventure of a Lifetime</answer>
+  </answer-list>
+</question>
+
+<question type="multiple-choice-with-multiple-answer">
+  <query>Guess my favourite three TV shows from the following:</query>
+  <option>How I Met You Mother.</option>
+  <option answer="answer">Two and a Half Men</option>
+  <option answer="answer">Modern Family</option>
+  <option answer="answer">Friends</option>
+  <option>Community College</option>
+</question>
+
+<question type="multi-answer" has-order="true">
+  <query>List top 3 largest cities in the world (in terms of land area, population and density) ranked by population.</query>
+  <answer-list>
+    <answer>Tokyo</answer>
+    <answer>New York</answer>
+    <answer>Sao Paulo</answer>
+  </answer-list>
+</question>
+
+</quiz>
